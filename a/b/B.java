@@ -2,7 +2,7 @@ package a.b;
 
 import a.C;
 
-public class B {
+class B {
 	C mC;
 
 	B(C c){
